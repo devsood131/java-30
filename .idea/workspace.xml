@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="code">
-      <change afterPath="$PROJECT_DIR$/src/Rev_str.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rev_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rev_num.java" afterDir="false" />
+    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="Class names should be capital">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rev_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rev_str.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Rev_str.executor": "Run",
     "Application.rev_num.executor": "Run",
     "Application.swap_num.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,13 +112,22 @@
       <option name="project" value="LOCAL" />
       <updated>1782635537254</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Class names should be capital">
+      <option name="closed" value="true" />
+      <created>1782635891570</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782635891570</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" store changes" />
     <MESSAGE value="name change" />
     <MESSAGE value="code" />
-    <option name="LAST_COMMIT_MESSAGE" value="code" />
+    <MESSAGE value="Class names should be capital" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class names should be capital" />
   </component>
 </project>
