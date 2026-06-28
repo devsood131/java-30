@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="Class names should be capital">
+    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rev_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rev_str.java" afterDir="false" />
     </list>
@@ -120,14 +120,22 @@
       <option name="project" value="LOCAL" />
       <updated>1782635891570</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="code">
+      <option name="closed" value="true" />
+      <created>1782636545168</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782636545168</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" store changes" />
     <MESSAGE value="name change" />
-    <MESSAGE value="code" />
     <MESSAGE value="Class names should be capital" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class names should be capital" />
+    <MESSAGE value="code" />
+    <option name="LAST_COMMIT_MESSAGE" value="code" />
   </component>
 </project>
