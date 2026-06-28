@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="string buffer method">
-      <change afterPath="$PROJECT_DIR$/src/palindrome_num_chk.java" afterDir="false" />
-    </list>
+    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="palindrome check for an number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Palindrome_num_chk.executor": "Run",
     "Application.Rev_str.executor": "Run",
+    "Application.palindrome_num_chk.executor": "Run",
     "Application.rev_num.executor": "Run",
     "Application.swap_num.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -135,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782640242231</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="palindrome check for an number">
+      <option name="closed" value="true" />
+      <created>1782640717829</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782640717829</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +152,7 @@
     <MESSAGE value="Class names should be capital" />
     <MESSAGE value="code" />
     <MESSAGE value="string buffer method" />
-    <option name="LAST_COMMIT_MESSAGE" value="string buffer method" />
+    <MESSAGE value="palindrome check for an number" />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrome check for an number" />
   </component>
 </project>
