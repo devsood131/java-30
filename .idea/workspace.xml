@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="palindrome check for an number">
-      <change afterPath="$PROJECT_DIR$/src/Palindrome_str_chk.java" afterDir="false" />
+    <list default="true" id="4e2544b5-dd25-4993-8acd-54f3aa630a69" name="Changes" comment="palindrome check for an string">
+      <change afterPath="$PROJECT_DIR$/src/count_num_digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/even_odd_count.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,7 @@
     "Application.Palindrome_num_chk.executor": "Run",
     "Application.Palindrome_str_chk.executor": "Run",
     "Application.Rev_str.executor": "Run",
+    "Application.count_num_digit.executor": "Run",
     "Application.palindrome_num_chk.executor": "Run",
     "Application.rev_num.executor": "Run",
     "Application.swap_num.executor": "Run",
@@ -163,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782751745608</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="palindrome check for an string">
+      <option name="closed" value="true" />
+      <created>1782887555636</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782887555636</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +183,7 @@
     <MESSAGE value="code" />
     <MESSAGE value="string buffer method" />
     <MESSAGE value="palindrome check for an number" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome check for an number" />
+    <MESSAGE value="palindrome check for an string" />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrome check for an string" />
   </component>
 </project>
